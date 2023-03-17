@@ -1,10 +1,10 @@
 ## Hello 🌍! 
 
-I'm a student of Eletrical Engineering on Federal University of Minas Gerais - Minas Gerais (BR) 
+I'm a student of Eletrical Engineering on Federal University of Minas Gerais from Brazil
 
-    • visando seguir carreira na área de computação
+    • Aiming to pursue a career in computing area
   
-    • Currently learning c++
+    • Currently learning C++
 
 
 
@@ -20,3 +20,4 @@ I'm a student of Eletrical Engineering on Federal University of Minas Gerais - M
   <a href="https://www.linkedin.com/in/ricardomrs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-circle&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
