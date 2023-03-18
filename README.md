@@ -2,7 +2,7 @@
 
 I'm a student of Electrical Engineering on Federal University of Minas Gerais from Brazil
 
-    • Aiming to pursue a career in computing area
+    • Aiming to pursue a career in computing science
   
     • Currently learning C++
 
